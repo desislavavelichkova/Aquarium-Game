@@ -22,7 +22,7 @@ public class Fish implements IFish {
 
     @Override
     public void Eat() {
-        this.size++;
+        
     }
 
     public void setSize(int size) {
